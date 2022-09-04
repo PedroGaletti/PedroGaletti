@@ -14,8 +14,8 @@
 
 #### Now
 
-- :fire: Interested in DevOps and Cloud engineering;
 <p align="left">
+  <p>- :fire: Interested in DevOps and Cloud engineering;</p>
   <p>
      - 🚀 Improve my gists by exercises, check: <a href="https://gist.github.com/PedroGaletti">My Gists</a>;
   </p>

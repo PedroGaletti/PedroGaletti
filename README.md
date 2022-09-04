@@ -15,6 +15,7 @@
 #### Now
 
 - :fire: Interested in DevOps and Cloud engineering;
+- 🚀 Improve my gists by exercises, check: [gists]("https://gist.github.com/PedroGaletti");
 
 #### Bio
 

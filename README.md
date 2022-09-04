@@ -1,6 +1,6 @@
 ### Hi 👋, I'm a software engineer
 
-<p align="left">
+<p left="center">
   <a href="https://pt.stackoverflow.com/users/303996/pedro-galetti">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/303996?color=orange&label=reputation&logo=stackoverflow">
   </a>
@@ -14,10 +14,10 @@
 
 #### Now
 
-<p align="left">
+<p left="center">
   <p>- :fire: Interested in DevOps and Cloud engineering;</p>
   <p>
-     - 🚀 Improve my gists by exercises, check: <a href="https://gist.github.com/PedroGaletti">My Gists</a>;
+     - 🚀 Improve my gists by exercises, please <a href="https://gist.github.com/PedroGaletti">check</a>;
   </p>
 </p>
 

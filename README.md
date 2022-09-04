@@ -15,7 +15,11 @@
 #### Now
 
 - :fire: Interested in DevOps and Cloud engineering;
-- 🚀 Improve my gists by exercises, check: [gists]("https://gist.github.com/PedroGaletti");
+<p align="left">
+  <p>
+     - 🚀 Improve my gists by exercises, check: <a href="https://gist.github.com/PedroGaletti">My Gists</a>;
+  </p>
+</p>
 
 #### Bio
 

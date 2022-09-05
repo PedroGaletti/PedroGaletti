@@ -1,9 +1,6 @@
 ### Hi 👋, I'm a software engineer
 
 <p left="center">
-  <a href="https://pt.stackoverflow.com/users/303996/pedro-galetti">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/303996?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/PedroGaletti?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/PedroGaletti?color=green&logo=github">
   </a>

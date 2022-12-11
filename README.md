@@ -31,17 +31,16 @@
 <b>⚡ Github Stats</b>
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGaletti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGaletti&layout=compact&hide_border=true&langs_count=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGaletti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGaletti&show_icons=true&hide_border=true&layout=compact&langs_count=12" />
 </p>
 
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/pedro-galetti-03b071168/">
+<!-- <a href="https://www.linkedin.com/in/pedro-galetti-03b071168/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-</a>
+</a> -->
 <a href="mailto:pedro@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>

@@ -31,7 +31,7 @@
 <b>⚡ Github Stats</b>
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGaletti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&username=PedroGaletti" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGaletti&show_icons=true&hide_border=true&layout=compact&langs_count=12" />
 </p>
 

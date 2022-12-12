@@ -20,7 +20,6 @@
 
 #### Bio
 
-- 🏢 I’m currently working at **Cedro Technologies**
 - 🌱 I’m currently learning all about **DevOps**
 - 🌍 I'm mostly active within the **Golang Community**
 - 💬 Ping me about **JavaScript**, **Golang**, **Docker**, **RestAPIs**, **AWS**
